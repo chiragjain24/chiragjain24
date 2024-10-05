@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragjain24&label=Profile%20views&color=0e75b6&style=flat" alt="chiragjain24" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)
-
 - 🌱 I’m currently learning everything xD
 
 - ⚡ Fun fact : **Love tech, music**
@@ -14,6 +12,7 @@
 
 - 💻 Check out some of my pojects : **[PriceWave](https://pricewave.vercel.app/), [Portfolio](https://portfolio-chiragjain.vercel.app/), [LockSafe](https://locksafe.vercel.app/).**
 
+- 👨‍💻 All of my projects are available at [portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)
 
 
 <h3 align="left">Languages:</h3>
