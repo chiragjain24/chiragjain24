@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragjain24&label=Profile%20views&color=0e75b6&style=flat" alt="chiragjain24" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio-chiragjain.vercel.app](portfolio-chiragjain.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)
 
 - 🌱 I’m currently learning everything xD
 
