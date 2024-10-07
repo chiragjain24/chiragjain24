@@ -8,11 +8,11 @@
 
 - ⚡ Fun fact : **Love tech, music**
 
-- 📫 How to reach me : **chiragjain8382@gmail.com**, **chiragjain_ep22b4_30@dtu.ac.in**
-
 - 💻 Check out some of my pojects : **[PriceWave](https://pricewave.vercel.app/), [Portfolio](https://portfolio-chiragjain.vercel.app/), [LockSafe](https://locksafe.vercel.app/).**
 
 - 👨‍💻 All of my projects are available at **[portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)**
+
+- 📫 How to reach me : **chiragjain8382@gmail.com**, **chiragjain_ep22b4_30@dtu.ac.in**
 
 
 <h3 align="left">Languages:</h3>
