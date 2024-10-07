@@ -12,7 +12,7 @@
 
 - 💻 Check out some of my pojects : **[PriceWave](https://pricewave.vercel.app/), [Portfolio](https://portfolio-chiragjain.vercel.app/), [LockSafe](https://locksafe.vercel.app/).**
 
-- 👨‍💻 All of my projects are available at [portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)
+- 👨‍💻 All of my projects are available at **[portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)**
 
 
 <h3 align="left">Languages:</h3>
