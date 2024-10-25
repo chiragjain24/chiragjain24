@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact : **I love Tech and Music.**
 
-- 💻 Check out some of my projects : **[PriceWave](https://pricewave.vercel.app/), [Portfolio](https://portfolio-chiragjain.vercel.app/), [LockSafe](https://locksafe.vercel.app/).**
+- 💻 Check out some of my projects : **[PriceWave](https://pricewave.vercel.app/), [Portfolio](https://portfolio-chiragjain.vercel.app/), [CVSyncer](https://cvsyncer-7zw1j61y.b4a.run/), [LockSafe](https://locksafe.vercel.app/).**
 
 - 👨‍💻 All of my projects are available at **[portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)**
 
