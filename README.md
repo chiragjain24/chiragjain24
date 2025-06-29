@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact : **I love Tech and Music.**
 
-- 💻 Check out some of my projects : **[PriceWave](https://pricewave.vercel.app/), [PlayTrend](https://playtrend.vercel.app), [Portfolio](https://portfolio-chiragjain.vercel.app/), [CVSyncer](https://cvsyncer-7zw1j61y.b4a.run/), [LockSafe](https://locksafe.vercel.app/).**
+- 💻 Check out some of my projects : **[PriceWave](https://pricewave.vercel.app/), [Alumni Connect](https://dtu-alumni.pages.dev), [PlayTrend](https://playtrend.vercel.app), [Portfolio](https://portfolio-chiragjain.vercel.app/), [CVSyncer](https://cvsyncer-7zw1j61y.b4a.run/), [LockSafe](https://locksafe.vercel.app/).**
 
 - 👨‍💻 All of my projects are available at **[portfolio-chiragjain.vercel.app](https://portfolio-chiragjain.vercel.app)**
 
@@ -66,6 +66,7 @@
 <h3>Coding Platforms:</h3>
 <p>
 <a href="https://www.leetcode.com/chiragjain8382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chiragjain8382" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/chiragjain24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chiragjain8382" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chiragja2gdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chiragja2gdu" height="40" width="40" /></a>
 </p>
 
