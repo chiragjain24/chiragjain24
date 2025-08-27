@@ -84,18 +84,6 @@
 
 ---
 
-<h3>Coding Platforms:</h3>
-<p>
-    <a href="https://www.leetcode.com/chiragjain8382" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" />
-    </a>
-    <a href="https://codeforces.com/profile/chiragjain24" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" width="40" />
-    </a>
-</p>
-
----
-
 <h3>Connect with me:</h3>
 <p>
     <a href="https://linkedin.com/in/chirag-jain8382" target="_blank">
