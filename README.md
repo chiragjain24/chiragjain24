@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact : **I love Tech and Music.**
 
-- 💻 Check out some of my projects : **[PriceWave](https://pricewave.vercel.app/), [Alumni Connect](https://dtu-alumni.pages.dev), [PlayTrend](https://playtrend.vercel.app), [Portfolio](https://chiragjain.me), [CVSyncer](https://cvsyncer-7zw1j61y.b4a.run/), [LockSafe](https://locksafe.vercel.app/).**
+- 💻 Check out some of my projects : **[PriceWave](https://pricewave.vercel.app/), [Buildora](https://buildorai.vercel.app), [Alumni Connect](https://dtu-alumni.pages.dev), [PlayTrend](https://playtrend.vercel.app), [Portfolio](https://chiragjain.me), [CVSyncer](https://cvsyncer-7zw1j61y.b4a.run/), [LockSafe](https://locksafe.vercel.app/).**
 
 - 👨‍💻 All of my projects are available at **[chiragjain.me](https://chiragjain.me)**
 
